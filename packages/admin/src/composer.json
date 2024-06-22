@@ -1,0 +1,12 @@
+{
+    "name": "admin/doorstep",
+    "description": "\"this is used to controller admin work and activities\"",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Doorstep\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
